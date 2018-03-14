@@ -1,7 +1,8 @@
 TP Web : Javascript et HTML5
 But du TP
 
-Creer une application web HTML5 avec du javascript tout en utilisant le MVC
+Creer une application web HTML5 avec du javascript tout en utilisant le MVC(Modele - vue - controleur) qui est un motif d'architecture
+logicielle destinée aux interfaces graphiques.
 
 Ce que fait l'application
 
